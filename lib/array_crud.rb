@@ -45,5 +45,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   house_pets = ["wow", "dog", "am", "arrays!"]
-  house_pets[3] = "huh"
+  house_pets[3] = "totally"
 end
